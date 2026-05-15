@@ -1,0 +1,55 @@
+-Xdoclint:none
+@options
+@argfile
+-encoding
+'UTF-8'
+-protected
+--release
+8
+-sourcepath
+'/home/rhel/git/hmod-plugin-base/src/main/java:/home/rhel/git/hmod-plugin-base/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/rhel/git/hmod-plugin-base/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'hMod Plugin Base 0.0.1 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' '/home/rhel/git/hmod-plugin-base/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'hMod Plugin Base 0.0.1 API'
+'/home/rhel/git/hmod-plugin-base/src/main/java/Plugin.java'
+/home/rhel/git/hmod-plugin-base/src/main/java/Plugin.java = 1778813062773
+/home/rhel/git/hmod-plugin-base/src/main/java = 1778813062836
+/home/rhel/git/hmod-plugin-base/target/generated-sources/annotations = 1778813139633
+/home/rhel/git/hmod-plugin-base/target/apidocs/Plugin.html = 1778813144355
+/home/rhel/git/hmod-plugin-base/target/apidocs/element-list = 1778813144359
+/home/rhel/git/hmod-plugin-base/target/apidocs/package-summary.html = 1778813144368
+/home/rhel/git/hmod-plugin-base/target/apidocs/package-tree.html = 1778813144375
+/home/rhel/git/hmod-plugin-base/target/apidocs/constant-values.html = 1778813144379
+/home/rhel/git/hmod-plugin-base/target/apidocs/package-use.html = 1778813144395
+/home/rhel/git/hmod-plugin-base/target/apidocs/overview-tree.html = 1778813144401
+/home/rhel/git/hmod-plugin-base/target/apidocs/package-search-index.js = 1778813144412
+/home/rhel/git/hmod-plugin-base/target/apidocs/package-search-index.zip = 1778813144415
+/home/rhel/git/hmod-plugin-base/target/apidocs/type-search-index.js = 1778813144415
+/home/rhel/git/hmod-plugin-base/target/apidocs/type-search-index.zip = 1778813144416
+/home/rhel/git/hmod-plugin-base/target/apidocs/member-search-index.js = 1778813144416
+/home/rhel/git/hmod-plugin-base/target/apidocs/member-search-index.zip = 1778813144416
+/home/rhel/git/hmod-plugin-base/target/apidocs/index-all.html = 1778813144418
+/home/rhel/git/hmod-plugin-base/target/apidocs/allclasses-index.html = 1778813144426
+/home/rhel/git/hmod-plugin-base/target/apidocs/allpackages-index.html = 1778813144429
+/home/rhel/git/hmod-plugin-base/target/apidocs/deprecated-list.html = 1778813144447
+/home/rhel/git/hmod-plugin-base/target/apidocs/allclasses.html = 1778813144452
+/home/rhel/git/hmod-plugin-base/target/apidocs/index.html = 1778813144455
+/home/rhel/git/hmod-plugin-base/target/apidocs/help-doc.html = 1778813144464
+/home/rhel/git/hmod-plugin-base/target/apidocs/stylesheet.css = 1778813144469
+/home/rhel/git/hmod-plugin-base/target/apidocs/script.js = 1778813144471
+/home/rhel/git/hmod-plugin-base/target/apidocs/search.js = 1778813144474
+/home/rhel/git/hmod-plugin-base/target/apidocs/jquery-ui.overrides.css = 1778813144507
